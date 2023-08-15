@@ -67,9 +67,8 @@ main {
 }
 
 .todo-form {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
+  grid-template-columns: 1fr auto;
+  display: grid;
   background-color: var(--color-container);
   padding: 1rem;
   border-radius: 0.5rem;
