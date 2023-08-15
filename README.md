@@ -29,4 +29,15 @@ El reto consiste en construir una aplicación de TODO, que tenga las siguientes 
 
 - Sube tu proyecto a github y realiza el deploy del proyecto en github pages o vercel.
 
+## Ejemplo
+
+https://todo-app-fg.vercel.app/
+
+## ¿Cómo ejecutar el proyecto?
+
+```bash
+npm install
+npm run dev
+```
+
 **¡Diviértete construyéndolo!** 🚀
