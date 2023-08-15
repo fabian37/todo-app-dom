@@ -77,6 +77,7 @@ main {
 }
 
 .todo-form input {
+  width: 95%;
   border: none;
   border-radius: 0.5rem;
   outline: none;
